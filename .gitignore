@@ -1,0 +1,17 @@
+#Holds Security Keys for Scraper
+twitter-scraper/locker.py
+
+#also holds keys
+twitter-scraper/.env
+
+#Holds useless stuff that isn't being used.
+twitter-research-database-sql
+
+#Random Mac downloads
+.DS_Store
+
+#The data itself, doesn't need to be stored on git
+tweets/
+
+#don't need the cache to be uploaded either
+twitter-scraper/__pycache__

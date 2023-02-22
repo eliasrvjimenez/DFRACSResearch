@@ -1,0 +1,6 @@
+REQUIRED PLUGINS FOR PYTHON
+
+pymongo
+python-dotenv
+twarc
+ ## WILL ADD MORE WHEN I GET MORE ##
