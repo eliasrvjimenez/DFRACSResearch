@@ -15,3 +15,6 @@ tweets/
 
 #don't need the cache to be uploaded either
 twitter-scraper/__pycache__
+
+#not being added yet.
+sitetester
