@@ -4,11 +4,11 @@ Hi there! I will be using this README as the main way of Documenting my progress
 
 CURRENTLY PLANNED:
 
-|      Project Name      |        Current Feature Planned            | Progress| is Working|
+|      Project Name      |        Current Feature Planned            | Overall Progress| is Working|
 |:----------------------:|:------------------------------------:|:-------:|:-------:|
-|Twarc (Twitter Scraper) | Make a better query for scraping     |   30%   |  Yes |
-|        MongoDB         | Feed scraped data straight to MONGODB|   10%   | Yes
-|      Django Site       | Find out whether to connect to MongoDB or MySQL| 0% | No |
+|Twarc (Twitter Scraper) | Make a better query for scraping     |   75%   |  Yes |
+|        MongoDB         | Mapping out Collected Data |   50%   | Yes |
+|      Django Site       | Get the site up and running | 0% | No |
 
 
 ## Twarc / Twitter Scaper
@@ -18,9 +18,6 @@ moment, but I am able to get data from specific users.
  
  **Things that are being worked on:**
  * The search query being used to scrape data
- * How and where that data is going to be stored
- * How I am going to run it
-    * This one might take a bit to figure out, I can either run it off of my macbook or off of my computer at home.
 
 ## MongoDB
 
@@ -30,7 +27,6 @@ a JSON file. MongoDB takes BSON Files, which is similar enough to JSON that Mong
 their file format. 
 
 **Things that are being worked on:**
-* How to recieve data straight from Twarc.
 * How to map the data received to a readable table
 * If and how to connect MongoDB to Django
    * Will work on this once I get Django to work better.
