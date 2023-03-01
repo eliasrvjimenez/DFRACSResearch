@@ -13,8 +13,13 @@ twitter-research-database-sql
 #The data itself, doesn't need to be stored on git
 tweets/
 
-#don't need the cache to be uploaded either
+#don't need:
 twitter-scraper/__pycache__
+<<<<<<< HEAD
 
 #not being added yet.
 sitetester
+=======
+twitter-scraper/query.txt
+twitter-scraper/twarc.log
+>>>>>>> cf71acc (updated the collection model)
